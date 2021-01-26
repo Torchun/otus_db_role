@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/Torchun/otus_db_role.svg?branch=master)](https://travis-ci.com/Torchun/otus_db_role.svg?branch=master)
 Role Name
 =========
 
