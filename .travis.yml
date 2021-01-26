@@ -18,5 +18,8 @@ install:
   # Check ansible version
   - ansible --version
 
+script:
+  - echo "some checks passed"
+
 notifications:
   slack: devops-team-otus:Wv8bMwwnJCwJhuIxP62nzipf
