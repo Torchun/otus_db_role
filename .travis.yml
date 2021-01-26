@@ -18,8 +18,5 @@ install:
   # Check ansible version
   - ansible --version
 
-  # Create ansible.cfg with correct roles_path
-  - printf '[defaults]\nroles_path=../' >ansible.cfg
-
 notifications:
   slack: devops-team-otus:Wv8bMwwnJCwJhuIxP62nzipf
